@@ -1,5 +1,6 @@
 # Census_Income_Prediction-
 ![](census.jpg)
+
 This is a Classification Problem. 
 
 The census data belongs to the citizens of US and other countries and having some related information.
