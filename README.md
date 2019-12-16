@@ -2,7 +2,7 @@
 ![](census.jpg)
 This is a Classification Problem. 
 
-The census data belongs to the citizens of US and other countries and related information.
+The census data belongs to the citizens of US and other countries and having some related information.
 
 Here, we have data with 14 features with person details and the income which is >50 0r <=50.
 
