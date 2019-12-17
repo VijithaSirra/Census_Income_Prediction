@@ -1,5 +1,5 @@
-# Census_Income_Prediction-
-![](census.jpg)
+# Census Income Prediction
+<p align="center">![](census.jpg)</p align>
 
 This is a Classification Problem. 
 
