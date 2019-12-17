@@ -1,6 +1,6 @@
 # Census Income Prediction
 <p align="center">
-  ![](census.jpg)
+  <img src=census.jpg>
 </p align>
 
 This is a Classification Problem. 
