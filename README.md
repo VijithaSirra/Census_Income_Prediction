@@ -33,9 +33,7 @@
 
 ### References :
 
-[Vidya Chockalingam, Sejal Shah and Ronit Shaw: “Income Classification
-using Adult Census Data”](https://cseweb.ucsd.edu/classes/wi17/cse258-
-a/reports/a120.pdf)
+[Vidya Chockalingam, Sejal Shah and Ronit Shaw: “Income Classificationusing Adult Census Data”](https://cseweb.ucsd.edu/classes/wi17/cse258-a/reports/a120.pdf)
 
 [Sisay Menji Bekena:“Using decision tree classifier to predict income
 levels”, Munich Personal RePEc Archive 30th July, 2017]
