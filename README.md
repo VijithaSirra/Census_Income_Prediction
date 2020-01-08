@@ -33,17 +33,17 @@
 
 ### References :
 
-1. [Vidya Chockalingam, Sejal Shah and Ronit Shaw: “Income Classification
+[Vidya Chockalingam, Sejal Shah and Ronit Shaw: “Income Classification
 using Adult Census Data”](https://cseweb.ucsd.edu/classes/wi17/cse258-
 a/reports/a120.pdf)
 
-2.[Sisay Menji Bekena:“Using decision tree classifier to predict income
+[Sisay Menji Bekena:“Using decision tree classifier to predict income
 levels”, Munich Personal RePEc Archive 30th July, 2017]
 
-3.[Mohammed Topiwalla: “Machine Learning on UCI Adult data Set Using
+[Mohammed Topiwalla: “Machine Learning on UCI Adult data Set Using
 Various Classifier Algorithms And Scaling Up The Accuracy Using
 Extreme Gradient Boosting”, University of SP Jain School of Global
 Management.]
 
-4.[Alina Lazar: “Income Prediction via Support Vector Machine”, International Conference on Machine Learning and Applications - ICMLA
+[Alina Lazar: “Income Prediction via Support Vector Machine”, International Conference on Machine Learning and Applications - ICMLA
 2004, 16-18 December 2004, Louisville, KY, USA.]
